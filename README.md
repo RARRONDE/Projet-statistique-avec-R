@@ -9,6 +9,6 @@ Les jeux de données utilisés ont été extraits de sources ouvertes telles que
 
 ## Contenu du Projet
 Dans ce projet, vous trouverez les ressources suivantes :
-- [Notebook de préparation des données] : Ce notebook détaille les étapes de préparation des données.
+- [Notebook de préparation des données] : Ce notebook détaille les étapes de préparation et de nettoyage des données.
 - [Notebook d'analyses statistiques et de visualisation] : Ce notebook explore les données en utilisant des techniques telles que l'Analyse en Composantes Principales (ACP) et le Clustering Hiérarchique Ascendant (CAH) / K-Means.
 - [Présentation PowerPoint] : Cette présentation résume les résultats de l'étude de marché à l'international.
