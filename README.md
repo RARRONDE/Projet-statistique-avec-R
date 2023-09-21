@@ -1,5 +1,6 @@
 # Etude de marché à l'international avec R
 ![alt text](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![alt text](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![alt text](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 L'objectif de ce projet est de proposer un groupement de pays que l'on peut cibler pour exporter nos marchandises à l'international.
